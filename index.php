@@ -22,7 +22,7 @@ include_once('header.php')
                   <div class="slide-text">
                     <div class="elementor-widget-container">
                       <h1 class="elementor-heading-title elementor-size-xxl">
-                        LOLER Inspection Testing and Thorough Examination
+                      Lifting equipment and lifting operation Inspection Testing and Thorough Examination
                       </h1>
                     </div>
                     <div class="elementor-widget-container">
@@ -59,7 +59,7 @@ include_once('header.php')
                   </div>
                 </div>
                 <div class="slide">
-                  <img src="iso-17020.jpg" alt="Image 3">
+                  <img src="eng.jpg" alt="Image 3">
                   <div class="slide-text">
                     <div class="elementor-widget-container">
                       <h1 class="elementor-heading-title elementor-size-xxl">
@@ -150,7 +150,7 @@ include_once('header.php')
                           data-id="d92a095" data-element_type="widget" data-widget_type="heading.default">
                           <div class="elementor-widget-container">
                             <h2 class="elementor-heading-title elementor-size-xl">
-                              LOLER Inspection Testing and Thorough
+                            Lifting equipment and lifting operation Inspection, Testing and Thorough
                               Examination of <br />Lifting Equipment and
                               Lifting Accessories
                             </h2>
@@ -220,10 +220,10 @@ include_once('header.php')
                                       font-family: georgia, palatino, serif;
                                       font-size: 14pt;
                                     ">Alkasbi engineering is national providers
-                                  for LOLER Inspection, LOLER Testing, LOLER
-                                  Thorough Examination, and LOLER
+                                  for Lifting equipment and lifting operation Inspection, Lifting equipment and lifting operation Testing,Lifting equipment and lifting operation
+                                  Thorough Examination, and Lifting equipment and lifting operation
                                   Certification services. Our Lifting
-                                  Equipment Inspection (LOLER Inspection)
+                                  Equipment Inspection (Lifting equipment Inspection)
                                   services keep</span><span style="
                                       color: #000f4a;
                                       font-family: georgia, palatino, serif;
@@ -237,7 +237,7 @@ include_once('header.php')
                                       font-size: 14pt;
                                     ">Lifting Equipment Inspection is required in
                                   accordance with
-                                  <a href="07 Lifting-Operations-Management-System.pdf">LOLER
+                                  <a href="07 Lifting-Operations-Management-System.pdf">OPAL 
                                   </a> </span>
                               </p>
                               <p style="
@@ -285,18 +285,18 @@ include_once('header.php')
                                   us to notify our customers in advance when
                                   their lifting equipment needs to be
                                   inspected and certified again. <span style="color: #ffffff; font-size: 8pt">
-                                    LOLER Inspection, LOLER Inspection,
+                                    Lifting equipment and lifting operation Inspection, Lifting equipment and lifting operation Inspection,
                                     Lifting Equipment Thorough Examination,
                                     <span style="
                                           font-family: georgia, palatino, serif;
-                                        ">LOLER Testing, LOLER Testing, LOLER
-                                      Testing LOLER Testing, LOLER Inspection,
-                                      LOLER Inspection, Lifting Equipment
-                                      Thorough Examination, LOLER Testing,
-                                      LOLER Testing, LOLER Testing LOLER
+                                        ">Lifting equipment and lifting operation Testing, Lifting equipment and lifting operation Testing, Lifting equipment and lifting operation
+                                      Testing Lifting equipment and lifting operation Testing, Lifting equipment and lifting operation Inspection,
+                                      Lifting equipment and lifting operation Inspection, Lifting Equipment
+                                      Thorough Examination, Lifting equipment and lifting operation Testing,
+                                      Lifting equipment and lifting operation Testing, Lifting equipment and lifting operation Testing Lifting equipment and lifting operation
                                       Testing, Lifting Equipment Inspection,
-                                      Lifting Equipment Inspection, LOLER
-                                      Inspection, LOLER Inspection</span></span></span>
+                                      Lifting Equipment Inspection, Lifting equipment and lifting operation
+                                      Inspection, Lifting equipment and lifting operation Inspection</span></span></span>
                               </p>
                             </div>
                           </div>
@@ -307,147 +307,7 @@ include_once('header.php')
                 </div>
               </div>
             </section>
-            <section
-              class="elementor-section elementor-top-section elementor-element elementor-element-eae38c2 elementor-section-boxed elementor-section-height-default elementor-section-height-default"
-              data-id="eae38c2" data-element_type="section">
-              <div class="elementor-container elementor-column-gap-default">
-                <div class="elementor-row">
-                  <div
-                    class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-9f7d0e7"
-                    data-id="9f7d0e7" data-element_type="column">
-                    <div class="elementor-column-wrap elementor-element-populated">
-                      <div class="elementor-widget-wrap">
-                        <div
-                          class="elementor-element elementor-element-83e213e elementor-widget-divider--view-line elementor-widget elementor-widget-divider"
-                          data-id="83e213e" data-element_type="widget" data-widget_type="divider.default">
-                          <div class="elementor-widget-container">
-                            <div class="elementor-divider">
-                              <span class="elementor-divider-separator">
-                              </span>
-                            </div>
-                          </div>
-                        </div>
-                      </div>
-                    </div>
-                  </div>
-                </div>
-              </div>
-            </section>
-            <section
-              class="elementor-section elementor-top-section elementor-element elementor-element-5e74d2d1 elementor-section-boxed elementor-section-height-default elementor-section-height-default"
-              data-id="5e74d2d1" data-element_type="section"
-              data-settings='{"background_background":"classic","shape_divider_bottom":"mountains"}'>
-              <div class="elementor-shape elementor-shape-bottom" data-negative="false">
-                <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 100" preserveAspectRatio="none">
-                  <path class="elementor-shape-fill" opacity="0.33"
-                    d="M473,67.3c-203.9,88.3-263.1-34-320.3,0C66,119.1,0,59.7,0,59.7V0h1000v59.7 c0,0-62.1,26.1-94.9,29.3c-32.8,3.3-62.8-12.3-75.8-22.1C806,49.6,745.3,8.7,694.9,4.7S492.4,59,473,67.3z" />
-                  <path class="elementor-shape-fill" opacity="0.66"
-                    d="M734,67.3c-45.5,0-77.2-23.2-129.1-39.1c-28.6-8.7-150.3-10.1-254,39.1 s-91.7-34.4-149.2,0C115.7,118.3,0,39.8,0,39.8V0h1000v36.5c0,0-28.2-18.5-92.1-18.5C810.2,18.1,775.7,67.3,734,67.3z" />
-                  <path class="elementor-shape-fill"
-                    d="M766.1,28.9c-200-57.5-266,65.5-395.1,19.5C242,1.8,242,5.4,184.8,20.6C128,35.8,132.3,44.9,89.9,52.5C28.6,63.7,0,0,0,0 h1000c0,0-9.9,40.9-83.6,48.1S829.6,47,766.1,28.9z" />
-                </svg>
-              </div>
-              <div class="elementor-container elementor-column-gap-default">
-                <div class="elementor-row">
-                  <div
-                    class="elementor-column elementor-col-50 elementor-top-column elementor-element elementor-element-3974598f"
-                    data-id="3974598f" data-element_type="column">
-                    <div class="elementor-column-wrap elementor-element-populated">
-                      <div class="elementor-widget-wrap">
-                        <div
-                          class="elementor-element elementor-element-55683f15 elementor-widget elementor-widget-image"
-                          data-id="55683f15" data-element_type="widget" data-widget_type="image.default">
-                          <div class="elementor-widget-container">
-                            <div class="elementor-image">
-                              <img decoding="async" width="2345" height="2085"
-                                src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%202345%202085'%3E%3C/svg%3E"
-                                class="attachment-full size-full wp-image-1070"
-                                alt="LOLER Inspection Testing Thorough Examination"
-                                data-lazy-src="wp-content/uploads/2019/09/LOLER-1998-HSE-Image-e1568801159673.jpg" />
-                            </div>
-                          </div>
-                        </div>
-                      </div>
-                    </div>
-                  </div>
-                  <div
-                    class="elementor-column elementor-col-50 elementor-top-column elementor-element elementor-element-21ff77c8"
-                    data-id="21ff77c8" data-element_type="column">
-                    <div class="elementor-column-wrap elementor-element-populated">
-                      <div class="elementor-widget-wrap">
-                        <div
-                          class="elementor-element elementor-element-3a8a76c1 elementor-widget elementor-widget-heading"
-                          data-id="3a8a76c1" data-element_type="widget" data-widget_type="heading.default">
-                          <div class="elementor-widget-container">
-                            <h2 class="elementor-heading-title elementor-size-large">
-                              What is LOLER And What Does it Stand For?
-                            </h2>
-                          </div>
-                        </div>
-                        <div
-                          class="elementor-element elementor-element-2009fcd7 elementor-widget elementor-widget-text-editor"
-                          data-id="2009fcd7" data-element_type="widget" data-widget_type="text-editor.default">
-                          <div class="elementor-widget-container">
-                            <div class="elementor-text-editor elementor-clearfix" style="text-align: left;">
-                              <p>
-                                <span style="color: #000f4a; font-size: 14pt">Lifting Operations and Lifting Equipment
-                                    Regulations 
-                                  (often abbreviated to LOLER) place duties on
-                                  people and companies who own, operate or
-                                  have control over lifting equipment.</span>
-                              </p>
-                              <p>
-                                <span style="color: #000f4a; font-size: 14pt">
-                                  This includes all businesses and
-                                  organisations whose employees use lifting
-                                  equipment, whether owned by them or not. In
-                                  most cases, lifting equipment is also work
-                                  equipment so the Provision and Use of Work
-                                  Equipment Regulations will also
-                                  apply (including inspection and maintenance
-                                  requirements).
-                                </span>
-                              </p>
-                              <p>
-                                <span style="color: #000f4a; font-size: 14pt">All lifting operations involving lifting
-                                  equipment must be properly planned by a
-                                  competent person, appropriately supervised
-                                  and carried out in a safe manner.</span>
-                              </p>
-                              <p>
-                                <span style="color: #000f4a; font-size: 14pt">LOLER also requires that all equipment
-                                  used
-                                  for lifting is fit for purpose, appropriate
-                                  for the task, suitably marked and subject to
-                                  <strong>statutory periodic &#8216;thorough
-                                    examination&#8217;. </strong>This can also be referred to as a
-                                  <strong>LOLER Inspection.</strong> </span>
-                              </p>
-                              <p>
-                                <span style="color: #000f4a; font-size: 14pt">Records must be kept of all thorough
-                                  examinations and any defects found must be
-                                  reported to both the person responsible for
-                                  the equipment and the relevant enforcing
-                                  authority.</span>
-                              </p>
-                            </div>
-                          </div>
-                        </div>
-                        <div
-                          class="elementor-element elementor-element-d17708f elementor-widget elementor-widget-spacer"
-                          data-id="d17708f" data-element_type="widget" data-widget_type="spacer.default">
-                          <div class="elementor-widget-container">
-                            <div class="elementor-spacer">
-                              <div class="elementor-spacer-inner"></div>
-                            </div>
-                          </div>
-                        </div>
-                      </div>
-                    </div>
-                  </div>
-                </div>
-              </div>
-            </section>
+          
             <section
               class="elementor-section elementor-top-section elementor-element elementor-element-9720ab2 elementor-section-boxed elementor-section-height-default elementor-section-height-default"
               data-id="9720ab2" data-element_type="section">
@@ -490,11 +350,11 @@ include_once('header.php')
                             <div class="elementor-image">
                               <img decoding="async"
                                 src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%200%200'%3E%3C/svg%3E"
-                                title="LOLER Inspection and Testing" alt="LOLER Inspection and Testing"
+                                title="Lifting equipment and lifting operation Inspection and Testing" alt="Lifting equipment and lifting operation Inspection and Testing"
                                 data-lazy-src="wp-content/uploads/elementor/thumbs/shutterstock_174454784-od67dkxwfk3114zdq1plvi8cxsdyrhyke1m4gjlc2g.jpg" /><noscript><img
                                   decoding="async"
                                   src="wp-content/uploads/elementor/thumbs/shutterstock_174454784-od67dkxwfk3114zdq1plvi8cxsdyrhyke1m4gjlc2g.jpg"
-                                  title="LOLER Inspection and Testing" alt="LOLER Inspection and Testing"
+                                  title="Lifting equipment and lifting operation Inspection and Testing" alt="Lifting equipment and lifting operation Inspection and Testing"
                                   loading="lazy" /></noscript>
                             </div>
                           </div>
@@ -514,7 +374,7 @@ include_once('header.php')
                             <h2 class="elementor-heading-title elementor-size-large">
                               What Types of Equipment Are Classified as
                               'Lifting Equipment' and 'Accessories' Under
-                              LOLER
+                              Lifting equipment and lifting operation
                             </h2>
                           </div>
                         </div>
@@ -780,8 +640,8 @@ include_once('header.php')
                                       font-family: georgia, palatino, serif;
                                       font-size: 14pt;
                                     ">In accordance with the requirements defined
-                                  under the LOLER Regulations, a
-                                  competent person should carry out a LOLER
+                                  under the Lifting equipment and lifting operation Regulations, a
+                                  competent person should carry out a Lifting equipment and lifting operation
                                   Inspection and Thorough Examination of
                                   Lifting Equipment and Accessories
                                   every:</span>
@@ -871,7 +731,7 @@ include_once('header.php')
                           <div class="elementor-widget-container">
                             <h2 class="elementor-heading-title elementor-size-xl">
                               Typical Examples of Lifting Equipment and
-                              Accessories Requiring a LOLER Inspection
+                              Accessories Requiring a Lifting equipment and lifting operation Inspection
                             </h2>
                           </div>
                         </div>
@@ -917,13 +777,13 @@ include_once('header.php')
                                         <div class="elementor-image">
                                           <img decoding="async"
                                             src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%200%200'%3E%3C/svg%3E"
-                                            title="LOLER Inspection Testing and Thorough Examination Wire Rope and Webbing Slings"
-                                            alt="LOLER Inspection Testing and Thorough Examination Wire Rope and Webbing Slings"
+                                            title="Lifting equipment and lifting operation Inspection Testing and Thorough Examination Wire Rope and Webbing Slings"
+                                            alt="Lifting equipment and lifting operation Inspection Testing and Thorough Examination Wire Rope and Webbing Slings"
                                             data-lazy-src="wp-content/uploads/elementor/thumbs/Wire-Rope-and-Webbing-Slings-osylcvoeqouv52soey930tly4on8nw2io89yhnw890.jpg" /><noscript><img
                                               decoding="async"
                                               src="wp-content/uploads/elementor/thumbs/Wire-Rope-and-Webbing-Slings-osylcvoeqouv52soey930tly4on8nw2io89yhnw890.jpg"
-                                              title="LOLER Inspection Testing and Thorough Examination Wire Rope and Webbing Slings"
-                                              alt="LOLER Inspection Testing and Thorough Examination Wire Rope and Webbing Slings"
+                                              title="Lifting equipment and lifting operation Inspection Testing and Thorough Examination Wire Rope and Webbing Slings"
+                                              alt="Lifting equipment and lifting operation Inspection Testing and Thorough Examination Wire Rope and Webbing Slings"
                                               loading="lazy" /></noscript>
                                         </div>
                                       </div>
@@ -955,13 +815,13 @@ include_once('header.php')
                                         <div class="elementor-image">
                                           <img decoding="async"
                                             src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%200%200'%3E%3C/svg%3E"
-                                            title="LOLER Inspection Testing and Thorough Examination Cranes and Hoists"
-                                            alt="LOLER Inspection Testing and Thorough Examination Cranes and Hoists"
+                                            title="Lifting equipment and lifting operation Inspection Testing and Thorough Examination Cranes and Hoists"
+                                            alt="Lifting equipment and lifting operation Inspection Testing and Thorough Examination Cranes and Hoists"
                                             data-lazy-src="wp-content/uploads/elementor/thumbs/Cranes-and-Hoists-osym7slbij6czdw3wbbd10rpgw9ttispl8oupa23lw.png" /><noscript><img
                                               decoding="async"
                                               src="wp-content/uploads/elementor/thumbs/Cranes-and-Hoists-osym7slbij6czdw3wbbd10rpgw9ttispl8oupa23lw.png"
-                                              title="LOLER Inspection Testing and Thorough Examination Cranes and Hoists"
-                                              alt="LOLER Inspection Testing and Thorough Examination Cranes and Hoists"
+                                              title="Lifting equipment and lifting operation Inspection Testing and Thorough Examination Cranes and Hoists"
+                                              alt="Lifting equipment and lifting operation Inspection Testing and Thorough Examination Cranes and Hoists"
                                               loading="lazy" /></noscript>
                                         </div>
                                       </div>
@@ -993,13 +853,13 @@ include_once('header.php')
                                         <div class="elementor-image">
                                           <img decoding="async"
                                             src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%200%200'%3E%3C/svg%3E"
-                                            title="Electric Scissor Lift LOLER Inspection Testing and Thorough Examination Access Machine MEWP"
-                                            alt="Electric Scissor Lift LOLER Inspection Testing and Thorough Examination Access Machine MEWP"
+                                            title="Electric Scissor Lift Lifting equipment and lifting operation Inspection Testing and Thorough Examination Access Machine MEWP"
+                                            alt="Electric Scissor Lift Lifting equipment and lifting operation Inspection Testing and Thorough Examination Access Machine MEWP"
                                             data-lazy-src="wp-content/uploads/elementor/thumbs/Electric-Scissor-Lift-Access-Machine-MEWP-osylelpr9r7sfcakcp2gldydc45grwwswrc05xc8uc.jpg" /><noscript><img
                                               decoding="async"
                                               src="wp-content/uploads/elementor/thumbs/Electric-Scissor-Lift-Access-Machine-MEWP-osylelpr9r7sfcakcp2gldydc45grwwswrc05xc8uc.jpg"
-                                              title="Electric Scissor Lift LOLER Inspection Testing and Thorough Examination Access Machine MEWP"
-                                              alt="Electric Scissor Lift LOLER Inspection Testing and Thorough Examination Access Machine MEWP"
+                                              title="Electric Scissor Lift Lifting equipment and lifting operation Inspection Testing and Thorough Examination Access Machine MEWP"
+                                              alt="Electric Scissor Lift Lifting equipment and lifting operation Inspection Testing and Thorough Examination Access Machine MEWP"
                                               loading="lazy" /></noscript>
                                         </div>
                                       </div>
@@ -1031,13 +891,13 @@ include_once('header.php')
                                         <div class="elementor-image">
                                           <img decoding="async"
                                             src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%200%200'%3E%3C/svg%3E"
-                                            title="Electric Scissor Lift LOLER Inspection Testing and Thorough Examination Forklift Truck"
-                                            alt="Electric Scissor Lift LOLER Inspection Testing and Thorough Examination Forklift Truck"
+                                            title="Electric Scissor Lift Lifting equipment and lifting operation Inspection Testing and Thorough Examination Forklift Truck"
+                                            alt="Electric Scissor Lift Lifting equipment and lifting operation Inspection Testing and Thorough Examination Forklift Truck"
                                             data-lazy-src="wp-content/uploads/elementor/thumbs/shutterstock_226638514-osylfvrukmyu88fnvqz6hkbyfzug92znf3asohfydg.jpg" /><noscript><img
                                               decoding="async"
                                               src="wp-content/uploads/elementor/thumbs/shutterstock_226638514-osylfvrukmyu88fnvqz6hkbyfzug92znf3asohfydg.jpg"
-                                              title="Electric Scissor Lift LOLER Inspection Testing and Thorough Examination Forklift Truck"
-                                              alt="Electric Scissor Lift LOLER Inspection Testing and Thorough Examination Forklift Truck"
+                                              title="Electric Scissor Lift Lifting equipment and lifting operation Inspection Testing and Thorough Examination Forklift Truck"
+                                              alt="Electric Scissor Lift Lifting equipment and lifting operation Inspection Testing and Thorough Examination Forklift Truck"
                                               loading="lazy" /></noscript>
                                         </div>
                                       </div>
@@ -1069,13 +929,13 @@ include_once('header.php')
                                         <div class="elementor-image">
                                           <img decoding="async"
                                             src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%200%200'%3E%3C/svg%3E"
-                                            title="LOLER Inspection Testing Thorough Examination Telescopic Handler"
-                                            alt="LOLER Inspection Testing Thorough Examination Telescopic Handler"
+                                            title="Lifting equipment and lifting operation Inspection Testing Thorough Examination Telescopic Handler"
+                                            alt="Lifting equipment and lifting operation Inspection Testing Thorough Examination Telescopic Handler"
                                             data-lazy-src="wp-content/uploads/elementor/thumbs/Telescopic-Handler-osym82xjlpkij3h37xs9ag5s04uv66xranv6zbmrpg.jpg" /><noscript><img
                                               decoding="async"
                                               src="wp-content/uploads/elementor/thumbs/Telescopic-Handler-osym82xjlpkij3h37xs9ag5s04uv66xranv6zbmrpg.jpg"
-                                              title="LOLER Inspection Testing Thorough Examination Telescopic Handler"
-                                              alt="LOLER Inspection Testing Thorough Examination Telescopic Handler"
+                                              title="Lifting equipment and lifting operation Inspection Testing Thorough Examination Telescopic Handler"
+                                              alt="Lifting equipment and lifting operation Inspection Testing Thorough Examination Telescopic Handler"
                                               loading="lazy" /></noscript>
                                         </div>
                                       </div>
@@ -1115,13 +975,13 @@ include_once('header.php')
                                         <div class="elementor-image">
                                           <img decoding="async"
                                             src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%200%200'%3E%3C/svg%3E"
-                                            title="LOLER Inspection Testing Thorough Examination Lifting and Spreader Beams"
-                                            alt="LOLER Inspection Testing Thorough Examination Lifting Frames and Beams"
+                                            title="Lifting equipment and lifting operation Inspection Testing Thorough Examination Lifting and Spreader Beams"
+                                            alt="Lifting equipment and lifting operation Inspection Testing Thorough Examination Lifting Frames and Beams"
                                             data-lazy-src="wp-content/uploads/elementor/thumbs/Lifting-and-Spreader-Beams-osym87mqjvqy55a9ghte4wz2z27p8ogezb4mdpfsuc.jpg" /><noscript><img
                                               decoding="async"
                                               src="wp-content/uploads/elementor/thumbs/Lifting-and-Spreader-Beams-osym87mqjvqy55a9ghte4wz2z27p8ogezb4mdpfsuc.jpg"
-                                              title="LOLER Inspection Testing Thorough Examination Lifting and Spreader Beams"
-                                              alt="LOLER Inspection Testing Thorough Examination Lifting Frames and Beams"
+                                              title="Lifting equipment and lifting operation Inspection Testing Thorough Examination Lifting and Spreader Beams"
+                                              alt="Lifting equipment and lifting operation Inspection Testing Thorough Examination Lifting Frames and Beams"
                                               loading="lazy" /></noscript>
                                         </div>
                                       </div>
@@ -1153,13 +1013,13 @@ include_once('header.php')
                                         <div class="elementor-image">
                                           <img decoding="async"
                                             src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%200%200'%3E%3C/svg%3E"
-                                            title="LOLER Inspection Testing Thorough Examination Excavators and Earth Moving Machinery"
-                                            alt="LOLER Inspection Testing Thorough Examination Excavators and Earth Moving Machinery"
+                                            title="Lifting equipment and lifting operation Inspection Testing Thorough Examination Excavators and Earth Moving Machinery"
+                                            alt="Lifting equipment and lifting operation Inspection Testing Thorough Examination Excavators and Earth Moving Machinery"
                                             data-lazy-src="wp-content/uploads/elementor/thumbs/Excavators-and-Earth-Moving-Machinery-osym7y8cnje2x1nwzdr4fzch17i13pf3m0lrkxtqkk.png" /><noscript><img
                                               decoding="async"
                                               src="wp-content/uploads/elementor/thumbs/Excavators-and-Earth-Moving-Machinery-osym7y8cnje2x1nwzdr4fzch17i13pf3m0lrkxtqkk.png"
-                                              title="LOLER Inspection Testing Thorough Examination Excavators and Earth Moving Machinery"
-                                              alt="LOLER Inspection Testing Thorough Examination Excavators and Earth Moving Machinery"
+                                              title="Lifting equipment and lifting operation Inspection Testing Thorough Examination Excavators and Earth Moving Machinery"
+                                              alt="Lifting equipment and lifting operation Inspection Testing Thorough Examination Excavators and Earth Moving Machinery"
                                               loading="lazy" /></noscript>
                                         </div>
                                       </div>
@@ -1191,13 +1051,13 @@ include_once('header.php')
                                         <div class="elementor-image">
                                           <img decoding="async"
                                             src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%200%200'%3E%3C/svg%3E"
-                                            title="LOLER Inspection Testing Thorough Examination Harness and Lanyards RGH3"
-                                            alt="LOLER Inspection Testing Thorough Examination Harness and Lanyards RGH3"
+                                            title="Lifting equipment and lifting operation Inspection Testing Thorough Examination Harness and Lanyards RGH3"
+                                            alt="Lifting equipment and lifting operation Inspection Testing Thorough Examination Harness and Lanyards RGH3"
                                             data-lazy-src="wp-content/uploads/elementor/thumbs/Harness-and-Lanyards-RGH3-osym7hb98iqx42chq6fu73m6c9tf95jxjov0xyitok.jpg" /><noscript><img
                                               decoding="async"
                                               src="wp-content/uploads/elementor/thumbs/Harness-and-Lanyards-RGH3-osym7hb98iqx42chq6fu73m6c9tf95jxjov0xyitok.jpg"
-                                              title="LOLER Inspection Testing Thorough Examination Harness and Lanyards RGH3"
-                                              alt="LOLER Inspection Testing Thorough Examination Harness and Lanyards RGH3"
+                                              title="Lifting equipment and lifting operation Inspection Testing Thorough Examination Harness and Lanyards RGH3"
+                                              alt="Lifting equipment and lifting operation Inspection Testing Thorough Examination Harness and Lanyards RGH3"
                                               loading="lazy" /></noscript>
                                         </div>
                                       </div>
@@ -1267,13 +1127,13 @@ include_once('header.php')
                                         <div class="elementor-image">
                                           <img decoding="async"
                                             src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%200%200'%3E%3C/svg%3E"
-                                            title="LOLER Inspection Testing Thorough Examination Lorry Loaders"
-                                            alt="LOLER Inspection Testing Thorough Examination Lorry Loaders"
+                                            title="Lifting equipment and lifting operation Inspection Testing Thorough Examination Lorry Loaders"
+                                            alt="Lifting equipment and lifting operation Inspection Testing Thorough Examination Lorry Loaders"
                                             data-lazy-src="wp-content/uploads/elementor/thumbs/Lorry-Crane-osym7cm2ackhi0jbhmepcmsvdcgl6o19v1lljkpsjo.jpg" /><noscript><img
                                               decoding="async"
                                               src="wp-content/uploads/elementor/thumbs/Lorry-Crane-osym7cm2ackhi0jbhmepcmsvdcgl6o19v1lljkpsjo.jpg"
-                                              title="LOLER Inspection Testing Thorough Examination Lorry Loaders"
-                                              alt="LOLER Inspection Testing Thorough Examination Lorry Loaders"
+                                              title="Lifting equipment and lifting operation Inspection Testing Thorough Examination Lorry Loaders"
+                                              alt="Lifting equipment and lifting operation Inspection Testing Thorough Examination Lorry Loaders"
                                               loading="lazy" /></noscript>
                                         </div>
                                       </div>
@@ -1751,7 +1611,7 @@ include_once('header.php')
                                           class="ti-cf-module content-form content-form-contact content_form_contact">
                                           <input type="hidden" id="_wpnonce_contact" name="_wpnonce_contact"
                                             value="6da1e2120b" /><input type="hidden" name="_wp_http_referer"
-                                            value="/engineering-testing-inspection-and-certification/loler-inspection-testing-lifting-equipment" /><input
+                                            value="/engineering-testing-inspection-and-certification/Lifting equipment and lifting operation-inspection-testing-lifting-equipment" /><input
                                             type="hidden" name="action" value="content_form_submit" /><input
                                             type="hidden" name="form-type" value="contact" /><input type="hidden"
                                             name="form-builder" value="elementor" /><input type="hidden" name="post-id"

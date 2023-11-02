@@ -1244,6 +1244,7 @@ ul.wp-block-rss a {
 
 @media only screen and (min-width: 1300px) {
   .th-container {
+    flex-wrap: nowrap;
     --main-container: 1605px;
   }
 }
@@ -1949,6 +1950,9 @@ textarea.is-invalid {
 }
 
 .th-menu-wrapper .th-menu-area {
+  display: flex;
+  margin: auto;
+  background-image: url('header-bg.jpg');
   width: 100%;
   max-width: 310px;
   background-color: #fff;
@@ -5861,7 +5865,7 @@ ol.wp-block-rss {
 }
 
 .dropdown-link > a {
-  color: var(--white-color);
+  /* color: var(--white-color); */
   font-weight: 500;
   display: -webkit-box;
   display: -webkit-flex;
@@ -5940,9 +5944,13 @@ ol.wp-block-rss {
 }
 
 .header-top {
+  display: flex;
+  margin: auto;
+  justify-content: center;
   padding: 11.5px 0;
   background-color: var(--title-color);
-  --body-color: #fff;
+  /* --body-color: #fff; */
+  background-image: url(header-bg.jpg);
 }
 
 .header-top a:hover {
@@ -5951,11 +5959,15 @@ ol.wp-block-rss {
 
 /* Header 1 ---------------------------------- */
 .header-layout1 {
+  background-image: url(header-bg.jpg);
+
+
   position: relative;
 }
 
 .header-layout1 .menu-area {
   position: relative;
+  background-image: url('header-bg.jpg');
   z-index: 2;
 }
 
@@ -5977,6 +5989,7 @@ ol.wp-block-rss {
 }
 
 .header-layout1 .logo-bg {
+  margin-left: 33%;
   position: absolute;
   top: 0;
   left: 0;
@@ -5986,19 +5999,22 @@ ol.wp-block-rss {
 }
 
 .header-layout1 .logo-bg:before, .header-layout1 .logo-bg:after {
-  content: '';
+  /* content: '';
   height: 100%;
   width: 100%;
   position: absolute;
   top: 0;
   left: 0;
-  background-color: #333333;
-  -webkit-clip-path: polygon(0 0, 100% 0, calc(100% - 40px) 100%, 0% 100%);
-          clip-path: polygon(0 0, 100% 0, calc(100% - 40px) 100%, 0% 100%);
-  z-index: -1;
+  /* background-color: #333333; */
+  /* background-image: url('header-bg.jpg'); */
+  /* -webkit-clip-path: polygon(0 0, 100% 0, calc(100% - 40px) 100%, 0% 100%);
+          clip-path: polygon(0 0, 100% 0, calc(100% - 40px) 100%, 0% 100%); */
+  /* z-index: -1;  */
 }
 
 .header-layout1 .logo-bg:after {
+  background-image: url('header-bg.jpg');
+
 
 }
 
@@ -6014,7 +6030,7 @@ ol.wp-block-rss {
     width: 19%;
   }
   .header-layout1 .header-logo {
-    padding-left: 20px;
+    padding-left: 100px;
   }
   .header-layout1 .header-top .container {
     padding-left: 370px;
@@ -31232,7 +31248,6 @@ fieldset {
     max-width:100%!important;
 }
 fieldset + fieldset {
-    margin-top:18px!important;
 }
 .form-columns-2 .hs-form-field {
     width:48.717948718%!important;

@@ -150,7 +150,8 @@
                   <i class="fa fa-bars"></i>
                 </button>
               </div>
-              <div class="col-auto d-none d-lg-block">
+              <div class="col-auto d-none d-lg-block" style="    margin-right: 8%;
+">
                 <div class="header-button">
                   <a href="#content-form-c217660" class="th-btn">Get examinated<i class="fas fa-arrow-right ms-2"></i></a>
                 </div>
