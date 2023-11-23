@@ -345,9 +345,9 @@
                       <div class="component-wrap">
                         <div>
                           <p>
-                            <a href="https://themeisle.com/themes/neve/" rel="nofollow">Neve</a>
-                            | Powered by
-                            <a href="http://wordpress.org/" rel="nofollow">WordPress</a>
+                          <a href=" https://themeisle.com/themes/neve/" rel="nofollow">fahad oman</a>
+                            all right reserved
+                            <a href=" http://wordpress.org/" rel="nofollow">alkasbieng.com</a>
                           </p>
                         </div>
                       </div>

@@ -18,6 +18,21 @@ p{
     position: relative;
     background: #000;
 }
+.slider-control{
+  position: absolute;
+  top: 50%;
+  margin: auto;
+  display: flex;
+  width: 100%;
+  z-index: 9999;
+  justify-content: space-between;
+
+}
+.slider-control button{
+  background: transparent;
+
+
+}
 
 .aboutuscon{
   display: flex;
@@ -138,6 +153,7 @@ border-radius: 50%;
 .slider {
     direction: ltr;
     display: flex;
+    max-height: 60vh;
     transition: transform 0.5s ease-in-out;
 }
 

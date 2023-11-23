@@ -12,7 +12,12 @@ include_once('arheader.php')
               data-id="692ab966" data-element_type="section" data-settings='{"background_background":"classic"}'>
               <div class="elementor-background-overlay"></div>
               <div class="slider-container">
-                <div class="slider">
+              <div class="slider-control">
+            <button onclick="goback()" ><i class="fa-solid fa-arrow-right fa-2xl"></i></button>
+
+            <button onclick="next()"><i class="fa-solid fa-arrow-left fa-2xl"></i></button>
+            </div>
+                <div class="slider" id="slider">
                   <div class="slide">
                     <img src="wp-content/uploads/2019/03/22.jpg" alt="Image 1">
                     <div class="slide-text">

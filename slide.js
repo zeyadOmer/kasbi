@@ -30,3 +30,25 @@ $(document).ready(function() {
         showSlide(currentIndex + 1);
     });
 });
+
+
+    let currentSlide = 0;
+
+    function next() {
+        console.log("Moving to the next slide");
+        currentSlide = (currentSlide + 1) % document.querySelectorAll('.slide').length;
+        updateSlider();
+    }
+
+    function goback() {
+        console.log("Going back to the previous slide");
+        currentSlide = (currentSlide - 1 + document.querySelectorAll('.slide').length) % document.querySelectorAll('.slide').length;
+        updateSlider();
+    }
+
+    function updateSlider() {
+        const slideWidth = document.querySelector('.slide').offsetWidth;
+        const translateValue = -currentSlide * slideWidth;
+        document.getElementById('slider').style.transform = 'translateX(' + translateValue + 'px)';
+    }
+
