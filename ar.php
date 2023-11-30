@@ -19,7 +19,7 @@ include_once('arheader.php')
             </div>
                 <div class="slider" id="slider">
                   <div class="slide">
-                    <img src="wp-content/uploads/2019/03/22.jpg" alt="Image 1">
+                    <img src="uploads/uploads/2019/03/22.jpg" alt="Image 1">
                     <div class="slide-text">
                       <div class="elementor-widget-container">
                         <h1 class="elementor-heading-title elementor-size-xxl">
@@ -112,9 +112,9 @@ include_once('arheader.php')
                                 class="attachment-full size-full wp-image-3284"
                                 alt="Plant and Safety Limited Accreditations"
                                 data-lazy-sizes="(max-width: 1920px) 100vw, 1920px"
-                                data-lazy-src="wp-content/uploads/2021/09/Plant-and-Safety-Limited-Accreditations-Website-Banner-V2-Without-Company-Logo-JPEG.jpg" /><noscript><img
+                                data-lazy-src="uploads/uploads/2021/09/Plant-and-Safety-Limited-Accreditations-Website-Banner-V2-Without-Company-Logo-JPEG.jpg" /><noscript><img
                                   decoding="async" width="1920" height="148"
-                                  src="wp-content/uploads/2021/09/Plant-and-Safety-Limited-Accreditations-Website-Banner-V2-Without-Company-Logo-JPEG.jpg"
+                                  src="uploads/uploads/2021/09/Plant-and-Safety-Limited-Accreditations-Website-Banner-V2-Without-Company-Logo-JPEG.jpg"
                                   class="attachment-full size-full wp-image-3284"
                                   alt="Plant and Safety Limited Accreditations"
                                   sizes="(max-width: 1920px) 100vw, 1920px" /></noscript>
@@ -341,9 +341,9 @@ include_once('arheader.php')
                               <img decoding="async"
                                 src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%200%200'%3E%3C/svg%3E"
                                 title="LOLER Inspection and Testing" alt="LOLER Inspection and Testing"
-                                data-lazy-src="wp-content/uploads/elementor/thumbs/shutterstock_174454784-od67dkxwfk3114zdq1plvi8cxsdyrhyke1m4gjlc2g.jpg" /><noscript><img
+                                data-lazy-src="uploads/uploads/elementor/thumbs/shutterstock_174454784-od67dkxwfk3114zdq1plvi8cxsdyrhyke1m4gjlc2g.jpg" /><noscript><img
                                   decoding="async"
-                                  src="wp-content/uploads/elementor/thumbs/shutterstock_174454784-od67dkxwfk3114zdq1plvi8cxsdyrhyke1m4gjlc2g.jpg"
+                                  src="uploads/uploads/elementor/thumbs/shutterstock_174454784-od67dkxwfk3114zdq1plvi8cxsdyrhyke1m4gjlc2g.jpg"
                                   title="LOLER Inspection and Testing" alt="LOLER Inspection and Testing"
                                   loading="lazy" /></noscript>
                             </div>
@@ -589,9 +589,9 @@ include_once('arheader.php')
                               <img decoding="async"
                                 src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%200%200'%3E%3C/svg%3E"
                                 title="Overhead Gantry Crane Training NPORS" alt="Overhead Gantry Crane Training NPORS"
-                                data-lazy-src="wp-content/uploads/2019/03/p2.jpg" /><noscript><img
+                                data-lazy-src="uploads/uploads/2019/03/p2.jpg" /><noscript><img
                                   decoding="async"
-                                  src="wp-content/uploads/elementor/thumbs/Overhead-travelling-crane-osylgn1c63y1engld3qzapr4nxy5452vb2etc1g5zs.jpg"
+                                  src="uploads/uploads/elementor/thumbs/Overhead-travelling-crane-osylgn1c63y1engld3qzapr4nxy5452vb2etc1g5zs.jpg"
                                   title="Overhead Gantry Crane Training NPORS"
                                   alt="Overhead Gantry Crane Training NPORS" loading="lazy" /></noscript>
                             </div>
@@ -754,9 +754,9 @@ include_once('arheader.php')
                                             src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%200%200'%3E%3C/svg%3E"
                                             title="LOLER Inspection Testing and Thorough Examination Wire Rope and Webbing Slings"
                                             alt="LOLER Inspection Testing and Thorough Examination Wire Rope and Webbing Slings"
-                                            data-lazy-src="wp-content/uploads/elementor/thumbs/Wire-Rope-and-Webbing-Slings-osylcvoeqouv52soey930tly4on8nw2io89yhnw890.jpg" /><noscript><img
+                                            data-lazy-src="uploads/uploads/elementor/thumbs/Wire-Rope-and-Webbing-Slings-osylcvoeqouv52soey930tly4on8nw2io89yhnw890.jpg" /><noscript><img
                                               decoding="async"
-                                              src="wp-content/uploads/elementor/thumbs/Wire-Rope-and-Webbing-Slings-osylcvoeqouv52soey930tly4on8nw2io89yhnw890.jpg"
+                                              src="uploads/uploads/elementor/thumbs/Wire-Rope-and-Webbing-Slings-osylcvoeqouv52soey930tly4on8nw2io89yhnw890.jpg"
                                               title="LOLER Inspection Testing and Thorough Examination Wire Rope and Webbing Slings"
                                               alt="LOLER Inspection Testing and Thorough Examination Wire Rope and Webbing Slings"
                                               loading="lazy" /></noscript>
@@ -792,9 +792,9 @@ include_once('arheader.php')
                                             src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%200%200'%3E%3C/svg%3E"
                                             title="LOLER Inspection Testing and Thorough Examination Cranes and Hoists"
                                             alt="LOLER Inspection Testing and Thorough Examination Cranes and Hoists"
-                                            data-lazy-src="wp-content/uploads/elementor/thumbs/Cranes-and-Hoists-osym7slbij6czdw3wbbd10rpgw9ttispl8oupa23lw.png" /><noscript><img
+                                            data-lazy-src="uploads/uploads/elementor/thumbs/Cranes-and-Hoists-osym7slbij6czdw3wbbd10rpgw9ttispl8oupa23lw.png" /><noscript><img
                                               decoding="async"
-                                              src="wp-content/uploads/elementor/thumbs/Cranes-and-Hoists-osym7slbij6czdw3wbbd10rpgw9ttispl8oupa23lw.png"
+                                              src="uploads/uploads/elementor/thumbs/Cranes-and-Hoists-osym7slbij6czdw3wbbd10rpgw9ttispl8oupa23lw.png"
                                               title="LOLER Inspection Testing and Thorough Examination Cranes and Hoists"
                                               alt="LOLER Inspection Testing and Thorough Examination Cranes and Hoists"
                                               loading="lazy" /></noscript>
@@ -830,9 +830,9 @@ include_once('arheader.php')
                                             src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%200%200'%3E%3C/svg%3E"
                                             title="Electric Scissor Lift LOLER Inspection Testing and Thorough Examination Access Machine MEWP"
                                             alt="Electric Scissor Lift LOLER Inspection Testing and Thorough Examination Access Machine MEWP"
-                                            data-lazy-src="wp-content/uploads/elementor/thumbs/Electric-Scissor-Lift-Access-Machine-MEWP-osylelpr9r7sfcakcp2gldydc45grwwswrc05xc8uc.jpg" /><noscript><img
+                                            data-lazy-src="uploads/uploads/elementor/thumbs/Electric-Scissor-Lift-Access-Machine-MEWP-osylelpr9r7sfcakcp2gldydc45grwwswrc05xc8uc.jpg" /><noscript><img
                                               decoding="async"
-                                              src="wp-content/uploads/elementor/thumbs/Electric-Scissor-Lift-Access-Machine-MEWP-osylelpr9r7sfcakcp2gldydc45grwwswrc05xc8uc.jpg"
+                                              src="uploads/uploads/elementor/thumbs/Electric-Scissor-Lift-Access-Machine-MEWP-osylelpr9r7sfcakcp2gldydc45grwwswrc05xc8uc.jpg"
                                               title="Electric Scissor Lift LOLER Inspection Testing and Thorough Examination Access Machine MEWP"
                                               alt="Electric Scissor Lift LOLER Inspection Testing and Thorough Examination Access Machine MEWP"
                                               loading="lazy" /></noscript>
@@ -868,9 +868,9 @@ include_once('arheader.php')
                                             src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%200%200'%3E%3C/svg%3E"
                                             title="Electric Scissor Lift LOLER Inspection Testing and Thorough Examination Forklift Truck"
                                             alt="Electric Scissor Lift LOLER Inspection Testing and Thorough Examination Forklift Truck"
-                                            data-lazy-src="wp-content/uploads/elementor/thumbs/shutterstock_226638514-osylfvrukmyu88fnvqz6hkbyfzug92znf3asohfydg.jpg" /><noscript><img
+                                            data-lazy-src="uploads/uploads/elementor/thumbs/shutterstock_226638514-osylfvrukmyu88fnvqz6hkbyfzug92znf3asohfydg.jpg" /><noscript><img
                                               decoding="async"
-                                              src="wp-content/uploads/elementor/thumbs/shutterstock_226638514-osylfvrukmyu88fnvqz6hkbyfzug92znf3asohfydg.jpg"
+                                              src="uploads/uploads/elementor/thumbs/shutterstock_226638514-osylfvrukmyu88fnvqz6hkbyfzug92znf3asohfydg.jpg"
                                               title="Electric Scissor Lift LOLER Inspection Testing and Thorough Examination Forklift Truck"
                                               alt="Electric Scissor Lift LOLER Inspection Testing and Thorough Examination Forklift Truck"
                                               loading="lazy" /></noscript>
@@ -906,9 +906,9 @@ include_once('arheader.php')
                                             src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%200%200'%3E%3C/svg%3E"
                                             title="LOLER Inspection Testing Thorough Examination Telescopic Handler"
                                             alt="LOLER Inspection Testing Thorough Examination Telescopic Handler"
-                                            data-lazy-src="wp-content/uploads/elementor/thumbs/Telescopic-Handler-osym82xjlpkij3h37xs9ag5s04uv66xranv6zbmrpg.jpg" /><noscript><img
+                                            data-lazy-src="uploads/uploads/elementor/thumbs/Telescopic-Handler-osym82xjlpkij3h37xs9ag5s04uv66xranv6zbmrpg.jpg" /><noscript><img
                                               decoding="async"
-                                              src="wp-content/uploads/elementor/thumbs/Telescopic-Handler-osym82xjlpkij3h37xs9ag5s04uv66xranv6zbmrpg.jpg"
+                                              src="uploads/uploads/elementor/thumbs/Telescopic-Handler-osym82xjlpkij3h37xs9ag5s04uv66xranv6zbmrpg.jpg"
                                               title="LOLER Inspection Testing Thorough Examination Telescopic Handler"
                                               alt="LOLER Inspection Testing Thorough Examination Telescopic Handler"
                                               loading="lazy" /></noscript>
@@ -952,9 +952,9 @@ include_once('arheader.php')
                                             src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%200%200'%3E%3C/svg%3E"
                                             title="LOLER Inspection Testing Thorough Examination Lifting and Spreader Beams"
                                             alt="LOLER Inspection Testing Thorough Examination Lifting Frames and Beams"
-                                            data-lazy-src="wp-content/uploads/elementor/thumbs/Lifting-and-Spreader-Beams-osym87mqjvqy55a9ghte4wz2z27p8ogezb4mdpfsuc.jpg" /><noscript><img
+                                            data-lazy-src="uploads/uploads/elementor/thumbs/Lifting-and-Spreader-Beams-osym87mqjvqy55a9ghte4wz2z27p8ogezb4mdpfsuc.jpg" /><noscript><img
                                               decoding="async"
-                                              src="wp-content/uploads/elementor/thumbs/Lifting-and-Spreader-Beams-osym87mqjvqy55a9ghte4wz2z27p8ogezb4mdpfsuc.jpg"
+                                              src="uploads/uploads/elementor/thumbs/Lifting-and-Spreader-Beams-osym87mqjvqy55a9ghte4wz2z27p8ogezb4mdpfsuc.jpg"
                                               title="LOLER Inspection Testing Thorough Examination Lifting and Spreader Beams"
                                               alt="LOLER Inspection Testing Thorough Examination Lifting Frames and Beams"
                                               loading="lazy" /></noscript>
@@ -990,9 +990,9 @@ include_once('arheader.php')
                                             src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%200%200'%3E%3C/svg%3E"
                                             title="LOLER Inspection Testing Thorough Examination Excavators and Earth Moving Machinery"
                                             alt="LOLER Inspection Testing Thorough Examination Excavators and Earth Moving Machinery"
-                                            data-lazy-src="wp-content/uploads/elementor/thumbs/Excavators-and-Earth-Moving-Machinery-osym7y8cnje2x1nwzdr4fzch17i13pf3m0lrkxtqkk.png" /><noscript><img
+                                            data-lazy-src="uploads/uploads/elementor/thumbs/Excavators-and-Earth-Moving-Machinery-osym7y8cnje2x1nwzdr4fzch17i13pf3m0lrkxtqkk.png" /><noscript><img
                                               decoding="async"
-                                              src="wp-content/uploads/elementor/thumbs/Excavators-and-Earth-Moving-Machinery-osym7y8cnje2x1nwzdr4fzch17i13pf3m0lrkxtqkk.png"
+                                              src="uploads/uploads/elementor/thumbs/Excavators-and-Earth-Moving-Machinery-osym7y8cnje2x1nwzdr4fzch17i13pf3m0lrkxtqkk.png"
                                               title="LOLER Inspection Testing Thorough Examination Excavators and Earth Moving Machinery"
                                               alt="LOLER Inspection Testing Thorough Examination Excavators and Earth Moving Machinery"
                                               loading="lazy" /></noscript>
@@ -1028,9 +1028,9 @@ include_once('arheader.php')
                                             src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%200%200'%3E%3C/svg%3E"
                                             title="LOLER Inspection Testing Thorough Examination Harness and Lanyards RGH3"
                                             alt="LOLER Inspection Testing Thorough Examination Harness and Lanyards RGH3"
-                                            data-lazy-src="wp-content/uploads/elementor/thumbs/Harness-and-Lanyards-RGH3-osym7hb98iqx42chq6fu73m6c9tf95jxjov0xyitok.jpg" /><noscript><img
+                                            data-lazy-src="uploads/uploads/elementor/thumbs/Harness-and-Lanyards-RGH3-osym7hb98iqx42chq6fu73m6c9tf95jxjov0xyitok.jpg" /><noscript><img
                                               decoding="async"
-                                              src="wp-content/uploads/elementor/thumbs/Harness-and-Lanyards-RGH3-osym7hb98iqx42chq6fu73m6c9tf95jxjov0xyitok.jpg"
+                                              src="uploads/uploads/elementor/thumbs/Harness-and-Lanyards-RGH3-osym7hb98iqx42chq6fu73m6c9tf95jxjov0xyitok.jpg"
                                               title="LOLER Inspection Testing Thorough Examination Harness and Lanyards RGH3"
                                               alt="LOLER Inspection Testing Thorough Examination Harness and Lanyards RGH3"
                                               loading="lazy" /></noscript>
@@ -1066,9 +1066,9 @@ include_once('arheader.php')
                                             src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%200%200'%3E%3C/svg%3E"
                                             title="NPORS Accredited Manual Pallet Truck Training Course"
                                             alt="NPORS Accredited Manual Pallet Truck Training Course"
-                                            data-lazy-src="wp-content/uploads/elementor/thumbs/Manual-Pallet-Truck-Training-Course-osyldx9yc2ac1ha2bei5sk4dw3hx7s7s5eddoqchc4.png" /><noscript><img
+                                            data-lazy-src="uploads/uploads/elementor/thumbs/Manual-Pallet-Truck-Training-Course-osyldx9yc2ac1ha2bei5sk4dw3hx7s7s5eddoqchc4.png" /><noscript><img
                                               decoding="async"
-                                              src="wp-content/uploads/elementor/thumbs/Manual-Pallet-Truck-Training-Course-osyldx9yc2ac1ha2bei5sk4dw3hx7s7s5eddoqchc4.png"
+                                              src="uploads/uploads/elementor/thumbs/Manual-Pallet-Truck-Training-Course-osyldx9yc2ac1ha2bei5sk4dw3hx7s7s5eddoqchc4.png"
                                               title="NPORS Accredited Manual Pallet Truck Training Course"
                                               alt="NPORS Accredited Manual Pallet Truck Training Course"
                                               loading="lazy" /></noscript>
@@ -1104,9 +1104,9 @@ include_once('arheader.php')
                                             src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%200%200'%3E%3C/svg%3E"
                                             title="LOLER Inspection Testing Thorough Examination Lorry Loaders"
                                             alt="LOLER Inspection Testing Thorough Examination Lorry Loaders"
-                                            data-lazy-src="wp-content/uploads/elementor/thumbs/Lorry-Crane-osym7cm2ackhi0jbhmepcmsvdcgl6o19v1lljkpsjo.jpg" /><noscript><img
+                                            data-lazy-src="uploads/uploads/elementor/thumbs/Lorry-Crane-osym7cm2ackhi0jbhmepcmsvdcgl6o19v1lljkpsjo.jpg" /><noscript><img
                                               decoding="async"
-                                              src="wp-content/uploads/elementor/thumbs/Lorry-Crane-osym7cm2ackhi0jbhmepcmsvdcgl6o19v1lljkpsjo.jpg"
+                                              src="uploads/uploads/elementor/thumbs/Lorry-Crane-osym7cm2ackhi0jbhmepcmsvdcgl6o19v1lljkpsjo.jpg"
                                               title="LOLER Inspection Testing Thorough Examination Lorry Loaders"
                                               alt="LOLER Inspection Testing Thorough Examination Lorry Loaders"
                                               loading="lazy" /></noscript>

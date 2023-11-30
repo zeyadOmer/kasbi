@@ -15,7 +15,7 @@ include_once('header.php')
                             <div class="elementor-background-overlay"></div>
                             <div class="slider-container">
                                     <div class="slide">
-                                        <img src="wp-content/uploads/2019/03/22.jpg" alt="Image 1">
+                                        <img src="uploads/uploads/2019/03/22.jpg" alt="Image 1">
                                         <div class="slide-text">
                                             <div class="elementor-widget-container">
                                                 <h1 class="elementor-heading-title elementor-size-xxl">

@@ -123,7 +123,7 @@ include_once('arheader.php')
                                                             data-widget_type="image.default">
                                                             <div class="elementor-widget-container">
                                                                 <img  width="500" height="225"
-                                                                    src="wp-content/uploads/2019/12/Appointed-Person-Training-Course.jpg"
+                                                                    src="uploads/uploads/2019/12/Appointed-Person-Training-Course.jpg"
                                                                     class="attachment-medium size-medium wp-image-892 entered lazyloaded"
                                                                   />
                                                             </div>
@@ -414,12 +414,12 @@ include_once('arheader.php')
               <section>
 
                 <div class="gallary">
-                  <img src="wp-content/uploads/2019/11/Articulating-Boom-Access-Machine-MEWP.png" alt="">
-                  <img src="wp-content/uploads/2019/11/Electric-Scissor-Lift-Access-Machine-MEWP.jpg" alt="">
-                  <img src="wp-content/uploads/2019/11/Vetrical-Mast-Access-Machine-MEWP.jpg" alt="">
-                  <img src="wp-content/uploads/2019/11/Truck-Mounted-Access-Machine-MEWP-LOLER-Inspection.jpg" alt="">
-                  <img src="wp-content/uploads/2019/11/Track-Driven-Access-Machine-MEWP-LOLER-Inspection-e1574099477663.jpg" alt="">
-                  <img src="wp-content/uploads/2019/11/Trailer-Mounted-Access-Machine-MEWP.jpg" alt="">
+                  <img src="uploads/uploads/2019/11/Articulating-Boom-Access-Machine-MEWP.png" alt="">
+                  <img src="uploads/uploads/2019/11/Electric-Scissor-Lift-Access-Machine-MEWP.jpg" alt="">
+                  <img src="uploads/uploads/2019/11/Vetrical-Mast-Access-Machine-MEWP.jpg" alt="">
+                  <img src="uploads/uploads/2019/11/Truck-Mounted-Access-Machine-MEWP-LOLER-Inspection.jpg" alt="">
+                  <img src="uploads/uploads/2019/11/Track-Driven-Access-Machine-MEWP-LOLER-Inspection-e1574099477663.jpg" alt="">
+                  <img src="uploads/uploads/2019/11/Trailer-Mounted-Access-Machine-MEWP.jpg" alt="">
            
                 </div>
               </section>

@@ -418,10 +418,10 @@
                               <div id="gallery-1" class="gallery galleryid-1067 gallery-columns-4 gallery-size-medium">
                                 <dl class="gallery-item">
                                   <dt class="gallery-icon landscape">
-                                    <img width="300" height="159" src="wp-content/uploads/2019/06/Chas-Logo-Purple_RGB_Accredited-300x159.png" class="attachment-medium size-medium entered lazyloaded" alt="Plant and Safety Limited CHAS Accreditation" decoding="async" aria-describedby="gallery-1-765" data-lazy-src="wp-content/uploads/2019/06/Chas-Logo-Purple_RGB_Accredited-300x159.png" data-ll-status="loaded"><noscript><img
+                                    <img width="300" height="159" src="uploads/uploads/2019/06/Chas-Logo-Purple_RGB_Accredited-300x159.png" class="attachment-medium size-medium entered lazyloaded" alt="Plant and Safety Limited CHAS Accreditation" decoding="async" aria-describedby="gallery-1-765" data-lazy-src="uploads/uploads/2019/06/Chas-Logo-Purple_RGB_Accredited-300x159.png" data-ll-status="loaded"><noscript><img
                                         width="300"
                                         height="159"
-                                        src="wp-content/uploads/2019/06/Chas-Logo-Purple_RGB_Accredited-300x159.png"
+                                        src="uploads/uploads/2019/06/Chas-Logo-Purple_RGB_Accredited-300x159.png"
                                         class="attachment-medium size-medium"
                                         alt="Plant and Safety Limited CHAS Accreditation"
                                         decoding="async"
@@ -436,7 +436,7 @@
                                 </dl>
                                 <dl class="gallery-item">
                                   <dt class="gallery-icon landscape">
-                                    <img width="255" height="131" src="wp-content/uploads/2019/06/rospa-member-logo-web.png" class="attachment-medium size-medium entered lazyloaded" alt="Plant and Safety Limited ROSPA Membership" decoding="async" aria-describedby="gallery-1-746" data-lazy-src="wp-content/uploads/2019/06/rospa-member-logo-web.png" data-ll-status="loaded">
+                                    <img width="255" height="131" src="uploads/uploads/2019/06/rospa-member-logo-web.png" class="attachment-medium size-medium entered lazyloaded" alt="Plant and Safety Limited ROSPA Membership" decoding="async" aria-describedby="gallery-1-746" data-lazy-src="uploads/uploads/2019/06/rospa-member-logo-web.png" data-ll-status="loaded">
                                   </dt>
                                   <dd class="wp-caption-text gallery-caption" id="gallery-1-746">
                                     Alkasbi Engineering 
@@ -444,7 +444,7 @@
                                 </dl>
                                 <dl class="gallery-item">
                                   <dt class="gallery-icon landscape">
-                                    <img width="300" height="127" src="wp-content/uploads/2019/06/bsc_member-logo_on-white_cmyk_300dpi_0-300x127.png" class="attachment-medium size-medium entered lazyloaded" alt="Plant and Safety Limited British Safety Council Membership" decoding="async" aria-describedby="gallery-1-764" data-lazy-sizes="(max-width: 300px) 100vw, 300px" data-lazy-src="wp-content/uploads/2019/06/bsc_member-logo_on-white_cmyk_300dpi_0-300x127.png" data-ll-status="loaded" sizes="(max-width: 300px) 100vw, 300px">
+                                    <img width="300" height="127" src="uploads/uploads/2019/06/bsc_member-logo_on-white_cmyk_300dpi_0-300x127.png" class="attachment-medium size-medium entered lazyloaded" alt="Plant and Safety Limited British Safety Council Membership" decoding="async" aria-describedby="gallery-1-764" data-lazy-sizes="(max-width: 300px) 100vw, 300px" data-lazy-src="uploads/uploads/2019/06/bsc_member-logo_on-white_cmyk_300dpi_0-300x127.png" data-ll-status="loaded" sizes="(max-width: 300px) 100vw, 300px">
                                   </dt>
                                   <dd class="wp-caption-text gallery-caption" id="gallery-1-764">
                                     Oman Energy association
@@ -732,7 +732,7 @@
     );
   </script>
   <script data-no-minify="1" async
-    src="wp-content/plugins/wp-rocket/assets/js/lazyload/17.8.3/lazyload.min.js"></script>
+    src="uploads/plugins/wp-rocket/assets/js/lazyload/17.8.3/lazyload.min.js"></script>
 </body>
 
 <!-- Mirrored from plantandsafety.co.uk/engineering-testing-inspection-and-certification/loler-inspection-testing-lifting-equipment by HTTrack Website Copier/3.x [XR&CO'2014], Sat, 07 Oct 2023 14:10:03 GMT -->

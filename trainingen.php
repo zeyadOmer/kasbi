@@ -52,9 +52,9 @@ include_once('header.php')
                                                                 class="attachment-full size-full wp-image-3284"
                                                                 alt="Plant and Safety Limited Accreditations"
                                                                 data-lazy-sizes="(max-width: 1920px) 100vw, 1920px"
-                                                                data-lazy-src="../wp-content/uploads/2021/09/Plant-and-Safety-Limited-Accreditations-Website-Banner-V2-Without-Company-Logo-JPEG.jpg" /><noscript><img
+                                                                data-lazy-src="../uploads/uploads/2021/09/Plant-and-Safety-Limited-Accreditations-Website-Banner-V2-Without-Company-Logo-JPEG.jpg" /><noscript><img
                                                                     decoding="async" width="1920" height="148"
-                                                                    src="../wp-content/uploads/2021/09/Plant-and-Safety-Limited-Accreditations-Website-Banner-V2-Without-Company-Logo-JPEG.jpg"
+                                                                    src="../uploads/uploads/2021/09/Plant-and-Safety-Limited-Accreditations-Website-Banner-V2-Without-Company-Logo-JPEG.jpg"
                                                                     class="attachment-full size-full wp-image-3284"
                                                                     alt="Plant and Safety Limited Accreditations"
                                                                     sizes="(max-width: 1920px) 100vw, 1920px" /></noscript>

@@ -6,9 +6,9 @@
 
 
   <title>Alkasbi ENG</title>
-  <link rel="icon" href="wp-content/uploads/2019/03/Union-Jack-150x150.png">
+  <link rel="icon" href="uploads/uploads/2019/03/Union-Jack-150x150.png">
 
-  <link rel="stylesheet" href="wp-content/cache/min/1/gg.css" />
+  <link rel="stylesheet" href="uploads/cache/min/1/gg.css" />
 
 
   <link rel="preconnect" href="https://fonts.googleapis.com">
@@ -125,7 +125,7 @@
             <div class="row align-items-center justify-content-between">
               <div class="col-auto">
                 <div class="header-logo">
-                  <a class="logo" href="index.php"><img class="img-fluid" src="wp-content/uploads/2020/02/Plant-and-Safety-Logo-High-Quality-JPEG-scaled.png" height="51px" width="200px" alt="logo"></a>
+                  <a class="logo" href="index.php"><img class="img-fluid" src="uploads/uploads/2020/02/Plant-and-Safety-Logo-High-Quality-JPEG-scaled.png" height="51px" width="200px" alt="logo"></a>
                 </div>
               </div>
               <div class="col-auto">

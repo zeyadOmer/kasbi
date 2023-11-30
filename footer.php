@@ -54,9 +54,9 @@
                                       class="attachment-medium size-medium"
                                       alt="Plant and Safety Limited CHAS Accreditation" decoding="async"
                                       aria-describedby="gallery-1-765"
-                                      data-lazy-src="wp-content/uploads/2019/06/Chas-Logo-Purple_RGB_Accredited-300x159.png" /><noscript><img
+                                      data-lazy-src="uploads/uploads/2019/06/Chas-Logo-Purple_RGB_Accredited-300x159.png" /><noscript><img
                                         width="300" height="159"
-                                        src="wp-content/uploads/2019/06/Chas-Logo-Purple_RGB_Accredited-300x159.png"
+                                        src="uploads/uploads/2019/06/Chas-Logo-Purple_RGB_Accredited-300x159.png"
                                         class="attachment-medium size-medium"
                                         alt="Plant and Safety Limited CHAS Accreditation" decoding="async"
                                         aria-describedby="gallery-1-765"  /></noscript>
@@ -72,9 +72,9 @@
                                       class="attachment-medium size-medium"
                                       alt="Plant and Safety Limited British Safety Council Membership" decoding="async"
                                       aria-describedby="gallery-1-764" data-lazy-sizes="(max-width: 300px) 100vw, 300px"
-                                      data-lazy-src="wp-content/uploads/2019/06/bsc_member-logo_on-white_cmyk_300dpi_0-300x127.png" /><noscript><img
+                                      data-lazy-src="uploads/uploads/2019/06/bsc_member-logo_on-white_cmyk_300dpi_0-300x127.png" /><noscript><img
                                         width="300" height="127"
-                                        src="wp-content/uploads/2019/06/bsc_member-logo_on-white_cmyk_300dpi_0-300x127.jpg"
+                                        src="uploads/uploads/2019/06/bsc_member-logo_on-white_cmyk_300dpi_0-300x127.jpg"
                                         class="attachment-medium size-medium"
                                         alt="Plant and Safety Limited British Safety Council Membership"
                                         decoding="async" aria-describedby="gallery-1-764"  /></noscript>
@@ -91,9 +91,9 @@
                                       class="attachment-medium size-medium"
                                       alt="Plant and Safety Limited ROSPA Membership" decoding="async"
                                       aria-describedby="gallery-1-746"
-                                      data-lazy-src="wp-content/uploads/2019/06/rospa-member-logo-web.png" /><noscript><img
+                                      data-lazy-src="uploads/uploads/2019/06/rospa-member-logo-web.png" /><noscript><img
                                         width="255" height="131"
-                                        src="wp-content/uploads/2019/06/rospa-member-logo-web.gif"
+                                        src="uploads/uploads/2019/06/rospa-member-logo-web.gif"
                                         class="attachment-medium size-medium"
                                         alt="Plant and Safety Limited ROSPA Membership" decoding="async"
                                         aria-describedby="gallery-1-746" /></noscript>
@@ -132,9 +132,9 @@
                                                   class=""
                                                   alt="Plant and Safety Limited CHAS Premium Plus Accreditation"
                                                   decoding="async" aria-describedby="gallery-2-778"
-                                                  data-lazy-src="wp-content/uploads/2019/06/CHAS-Premium-Plus-1-150x150.png" /><noscript><img
+                                                  data-lazy-src="uploads/uploads/2019/06/CHAS-Premium-Plus-1-150x150.png" /><noscript><img
                                                     width="150" height="150"
-                                                    src="wp-content/uploads/2019/06/CHAS-Premium-Plus-1-150x150.jpg"
+                                                    src="uploads/uploads/2019/06/CHAS-Premium-Plus-1-150x150.jpg"
                                                     class="a"
                                                     alt="Plant and Safety Limited CHAS Premium Plus Accreditation"
                                                     decoding="async" aria-describedby="gallery-2-778" /></noscript>
@@ -454,7 +454,7 @@
     );
   </script>
   <script data-no-minify="1" async
-    src="wp-content/plugins/wp-rocket/assets/js/lazyload/17.8.3/lazyload.min.js"></script>
+    src="uploads/plugins/wp-rocket/assets/js/lazyload/17.8.3/lazyload.min.js"></script>
 </body>
 
 <!-- Mirrored from plantandsafety.co.uk/engineering-testing-inspection-and-certification/loler-inspection-testing-lifting-equipment by HTTrack Website Copier/3.x [XR&CO'2014], Sat, 07 Oct 2023 14:10:03 GMT -->
