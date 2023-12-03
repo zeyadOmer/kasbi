@@ -58,21 +58,18 @@ include_once('header.php')
     <div class="our-goals">
 
       <div class="card">
-        <i class="fa-solid fa-eye fa-2xl" style="color: #c9c31d;"></i>
         <h3>our vision</h3>
         Commitment to providing high-quality services regarding inspection of lifting equipment at reasonable prices
         in the Sultanate of Oman, with a focus on professionalism, professionalism, sustainability, reliability, and
         true customer care.
       </div>
       <div class="card">
-        <i class="fa-solid fa-helmet-safety  fa-2xl" style="color: #4bc91d; "></i>
         <h3>our misson</h3>
         find all that is new and start from where the other ended up in quality and excellent
       </div>
 
 
       <div class="card">
-        <i class="fa-solid fa-bullseye  fa-2xl" style="color: #991a1a; "></i>
         <h3>our services</h3>
         <ul>
           <li>
@@ -219,23 +216,7 @@ include_once('header.php')
 
 
                           </div>
-                          <div class="team australia leadership" style="display: inline-block;">
-                            <div class="team-thumb-bg">
-                              <div class="square team-thumb">
-                                <div class="inner">
-                                  <img class="thumb thumb-color" src="Ali22.jpg">
-                                  <img class="thumb thumb-alt" src="https://www.saltedstone.com/hubfs/saltynaut.jpg">
-                                </div>
-                              </div>
-                            </div>
-                            <div class="team-info">
-                              <h4 class="name sub-title title5 c-white">MUHAMMAD<br> IKRAM</h4>
-                              <span class="job-title title4 c-beige c-amber-ale">Inspector
-                              </span>
-                            </div>
-
-
-                          </div>
+                    
                           <div class="team california leadership strategy" style="display: inline-block;">
                             <div class="team-thumb-bg">
                               <div class="square team-thumb">

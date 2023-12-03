@@ -62,20 +62,17 @@ include_once('arheader.php')
         <div class="our-goals">
 
           <div class="card">
-            <i class="fa-solid fa-eye fa-2xl" style="color: #c9c31d;"></i>
             <h3>رؤيتنا</h3>
             الالتزام بتقديم خدمات عالية الجودة فيما يتعلق بفحص معدات الرفع وبأسعار مناسبة
             في سلطنة عمان، مع التركيز على الاحترافية، والاحترافية، والاستدامة، والموثوقية، و
             رعاية العملاء الحقيقية.
           </div>
           <div class="card">
-            <i class="fa-solid fa-helmet-safety  fa-2xl" style="color: #4bc91d; "></i>
             <h3>هدفنا</h3>
             ابحث عن كل ما هو جديد وابدأ من حيث انتهى الآخر بجودة وممتازة          </div>
 
 
           <div class="card">
-            <i class="fa-solid fa-bullseye  fa-2xl" style="color: #991a1a; "></i>
             <h3>خدماتنا</h3>
             <ul>
               <li>
@@ -222,24 +219,7 @@ include_once('arheader.php')
             
 
                             </div>
-                            <div class="team australia leadership" style="display: inline-block;">
-                              <div class="team-thumb-bg">
-                                <div class="square team-thumb">
-                                  <div class="inner">
-                                    <img class="thumb thumb-color"
-                                      src="Ali22.jpg">
-                                    <img class="thumb thumb-alt" src="https://www.saltedstone.com/hubfs/saltynaut.jpg">
-                                  </div>
-                                </div>
-                              </div>
-                              <div class="team-info">
-                                <h4 class="name sub-title title5 c-white">محمد<br> اكرام</h4>
-                                <span class="job-title title4 c-beige c-amber-ale">مفتش
-                                  </span>
-                              </div>
-
-
-                            </div>
+                    
                             <div class="team california leadership strategy" style="display: inline-block;">
                               <div class="team-thumb-bg">
                                 <div class="square team-thumb">
