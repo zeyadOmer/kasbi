@@ -236,6 +236,23 @@ include_once('arheader.php')
 
 
                             </div>
+
+                            <div class="team california leadership strategy" style="display: inline-block;">
+                              <div class="team-thumb-bg">
+                                <div class="square team-thumb">
+                                  <div class="inner">
+                                    <img class="thumb thumb-color" src="ahmed.jpeg">
+                                    <img class="thumb thumb-alt" src="">
+                                  </div>
+                                </div>
+                              </div>
+                              <div class="team-info">
+                                <h4 class="name sub-title title5 c-white">احمد<br> صلاح</h4>
+                                <span class="job-title title4 c-beige c-amber-ale">مستشار </span>
+                              </div>
+
+
+                            </div>
                        
 
                    
