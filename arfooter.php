@@ -431,7 +431,7 @@
                                     /></noscript>
                                   </dt>
                                   <dd class="wp-caption-text gallery-caption" id="gallery-1-765">
-                                    ISO
+                                   ايزو 2012
                                   </dd>
                                 </dl>
                                 <dl class="gallery-item">
@@ -439,7 +439,23 @@
                                     <img width="255" height="131" src="uploads/uploads/2019/06/rospa-member-logo-web.png" class="attachment-medium size-medium entered lazyloaded" alt="Plant and Safety Limited ROSPA Membership" decoding="async" aria-describedby="gallery-1-746" data-lazy-src="uploads/uploads/2019/06/rospa-member-logo-web.png" data-ll-status="loaded">
                                   </dt>
                                   <dd class="wp-caption-text gallery-caption" id="gallery-1-746">
-                                    Alkasbi Engineering 
+                                    شركة الكاسبي الهندسية
+                                  </dd>
+                                </dl>
+                                <dl class="gallery-item">
+                                  <dt class="gallery-icon landscape">
+                                    <img width="300" height="127" src="star.png" class="attachment-medium size-medium entered lazyloaded" alt="Plant and Safety Limited British Safety Council Membership" decoding="async" aria-describedby="gallery-1-764" data-lazy-sizes="(max-width: 300px) 100vw, 300px" data-lazy-src="uploads/uploads/2019/06/bsc_member-logo_on-white_cmyk_300dpi_0-300x127.png" data-ll-status="loaded" sizes="(max-width: 300px) 100vw, 300px">
+                                  </dt>
+                                  <dd class="wp-caption-text gallery-caption" id="gallery-1-764">
+                                   ايزو 2015
+                                  </dd>
+                                </dl>
+                                <dl class="gallery-item">
+                                  <dt class="gallery-icon landscape">
+                                    <img width="300" height="127" src="CHAS-Premium-Plus-1-150x150.png" class="attachment-medium size-medium entered lazyloaded" alt="Plant and Safety Limited British Safety Council Membership" decoding="async" aria-describedby="gallery-1-764" data-lazy-sizes="(max-width: 300px) 100vw, 300px" data-lazy-src="uploads/uploads/2019/06/bsc_member-logo_on-white_cmyk_300dpi_0-300x127.png" data-ll-status="loaded" sizes="(max-width: 300px) 100vw, 300px">
+                                  </dt>
+                                  <dd class="wp-caption-text gallery-caption" id="gallery-1-764">
+                                    شركة عمانية
                                   </dd>
                                 </dl>
                                 <dl class="gallery-item">

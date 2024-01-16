@@ -173,19 +173,17 @@ border-radius: 50%;
 .slide-text {
     position: absolute;
     top: 50%;
-    left: 50%;
+    left: 30%;
     transform: translate(-50%, -50%);
     color: #fff;
     padding: 10px;
 }
 .slide h1{
     background: #ffffff09;
-    color: #d32024;
-    font-weight: 700;
-    border-radius: 5px;
-    backdrop-filter: blur(2px); /* Apply the blur effect */
+    color: #fff;
+    /* backdrop-filter: blur(2px); Apply the blur effect */
 
-    box-shadow: 0 0 2px 2px;
+    /* box-shadow: 0 0 2px 2px; */
 
     margin-bottom: 1em;
     padding: 1em;
@@ -35145,4 +35143,23 @@ blockquote a {
 .hs-embed-wrapper {
   max-width: 100% !important;
   max-height: 100% !important;
+}
+
+.bluComnContBox h3 {
+  font-size: 26px;
+  text-transform: uppercase;
+  margin-bottom: 25px;
+}
+
+.bluComnContBox {
+  width: 100%;
+  padding: 50px;
+  background-position: 50% 50%;
+  background-repeat: no-repeat;
+  background-size: cover;
+  position: relative;
+  color: #FFF;
+  border-radius: 5px;
+  overflow: hidden;
+  margin-bottom: 30px;
 }

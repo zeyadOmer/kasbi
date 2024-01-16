@@ -144,6 +144,9 @@
                     <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1165">
                       <a href="contactus.php">Contact Us</a>
                     </li>
+                    <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1165">
+                      <a href="career.php">Career </a>
+                    </li>
                   </ul>
                 </nav>
                 <button type="button" class="th-menu-toggle d-block d-lg-none" onclick="gg();">

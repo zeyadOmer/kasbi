@@ -48,13 +48,13 @@ include_once('header.php')
                                                             <img decoding="async" width="1920" height="148"
                                                                 src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%201920%20148'%3E%3C/svg%3E"
                                                                 class="attachment-full size-full wp-image-3284"
-                                                                alt="Plant and Safety Limited Accreditations"
+                                                                alt="AlKasbi Engineering"
                                                                 data-lazy-sizes="(max-width: 1920px) 100vw, 1920px"
                                                                 data-lazy-src="../uploads/uploads/2021/09/Plant-and-Safety-Limited-Accreditations-Website-Banner-V2-Without-Company-Logo-JPEG.jpg" /><noscript><img
                                                                     decoding="async" width="1920" height="148"
                                                                     src="../uploads/uploads/2021/09/Plant-and-Safety-Limited-Accreditations-Website-Banner-V2-Without-Company-Logo-JPEG.jpg"
                                                                     class="attachment-full size-full wp-image-3284"
-                                                                    alt="Plant and Safety Limited Accreditations"
+                                                                    alt="AlKasbi Engineering"
                                                                     sizes="(max-width: 1920px) 100vw, 1920px" /></noscript>
                                                         </div>
                                                     </div>

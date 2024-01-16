@@ -2,7 +2,14 @@
 include_once('header.php')
 
 ?>
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/css/bootstrap.min.css" integrity="sha384-T3c6CoIi6uLrA9TneNEoa7RxnatzjcDSCmG1MXxSR1GAsXEV/Dwwykc2MPK8M2HN" crossorigin="anonymous">
 
+<link rel="stylesheet" href="ss.css">
+<style>
+  .bluInner p{
+    color: #fff;
+  }
+</style>
 <main id="content" class="neve-main">
 
   <div data-elementor-type="wp-post" data-elementor-id="35" class="elementor elementor-35">
@@ -55,52 +62,49 @@ include_once('header.php')
 
     <!-- our goals -->
 
-    <div class="our-goals">
-
-      <div class="card">
-        <h3>our vision</h3>
-        Commitment to providing high-quality services regarding inspection of lifting equipment at reasonable prices
-        in the Sultanate of Oman, with a focus on professionalism, professionalism, sustainability, reliability, and
-        true customer care.
-      </div>
-      <div class="card">
-        <h3>our misson</h3>
-        find all that is new and start from where the other ended up in quality and excellent
-      </div>
-
-
-      <div class="card">
-        <h3>our services</h3>
-        <ul>
-          <li>
-            <h3>insure cranes Safety:</h3><br>
-            <p>
-              Cranes and other cable car equipment used at construction sites or used by tree trimmers, electricians
-              while repairing electricity transmission lines, or rescue workers must meet all performance and safety
-              standards necessary to ensure good service and protect people working in such dangerous jobs.
-            </p>
-
-
-          </li>
-          <li>
-            <h3>Comprehensive inspection and certification to ensure equipment safety and quality:</h3><br>
-            <p>
-              Our experts conduct comprehensive and detailed examinations under the supervision of a representative
-              of the fire department, providing several different testing methods
-            </p>
-          </li>
-          <li>
-            <h3>Maintain equipment efficiency with independent inspection services:</h3><br>
-            <p>
-              We provide inspection and certification services for cranes and cable car equipment to ensure their
-              compliance with all state and federal laws and ensure that inspection standards are met in addition to
-              the manufacturer’s instructions.
-
-            </p>
-          </li>
-        </ul>
-      </div>
+    <div class="container">
+  	<div class="bluComnContBox policyBox" style="background-image:url(Metal-scaffolding-00-1.jpg);">
+                    	<div class="bluInner">
+                            <div class="row justify-content-end">
+                                <div class="col-md-7">
+                                    <h3 class="wow bounceInRight" data-wow-delay="0s" style="visibility: visible; animation-delay: 0s; animation-name: bounceInRight;">Our Approch</h3>
+                                    <h5 class="wow bounceInRight" data-wow-delay=".1s" style="visibility: visible; animation-delay: 0.1s; animation-name: bounceInRight;">VISION: </h5><p class="wow bounceInRight" data-wow-delay=".2s" style="visibility: visible; animation-delay: 0.2s; animation-name: bounceInRight;">Our vision is to become The Trusted Partner of each of the people with whom we have a relationship, be they clients, employees, shareholders, suppliers, members of the communities in which we are working or any other group or individual.</p>
+                                    <h5 class="wow bounceInRight" data-wow-delay=".3s" style="visibility: visible; animation-delay: 0.3s; animation-name: bounceInRight;">MISSION: </h5><p class="wow bounceInRight" data-wow-delay=".4s" style="visibility: visible; animation-delay: 0.4s; animation-name: bounceInRight;">To Provide the highest standard of services while providing pioneer, value -added Engineering Services to our customers with an ever-increasing spotlight on Oil and Gas production, Refining, Exploration and other major industries.</p>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    
+                    
+                    <div class="innerCont">
+    	<div class="row">
+        	<div class="col-md-9">
+            	<div class="cont_rows">
+                  <div class="title03 wow bounceInRight" style="visibility: visible; animation-name: bounceInRight;">
+                        <h3><strong>ALKASBI Policy</strong></h3>
+                    </div>
+                    
+<p>Alkasbi engineering company will strive continuously to bring about qualitative improvements in all phases of its operations with an eye to attaining superior Quality among competitors. </p>
+<p>The Company will enforce this policy by:
+				</p><ul class="contList wow bounceInUp" style="visibility: visible; animation-name: bounceInUp;">
+                	<li>Creating all procedures, standards and systems necessary to ensure delivery of Quality products and services.</li>
+                    <li>Complying with specifications, standards and procedures at all stages of each contract.</li>
+                    <li>Assuring effective quality control of all materials and resources deployed on the job.</li>
+                    <li>Bringing all systems and processes about steady improvements based on customer feed back, audit findings and keeping abreast of technological innovations and advances.</li>
+                    <li>Training employees to comply with procedures and standards and installing an outlook of customer satisfaction in them.</li>
+                 </ul>
+                 <p></p>
+                </div>
+            </div>
+     
+            </div>
+        </div>
     </div>
+                    
+                    
+                    
+  </div>
+ 
 
 
     <!-- manger message -->
@@ -275,6 +279,7 @@ include_once('header.php')
       </div><!--end row-->
   </div>
   </section>
+
 
 
 

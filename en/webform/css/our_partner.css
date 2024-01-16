@@ -1,0 +1,6 @@
+@media (max-width: 767px) {
+   .webform-confirmation-modal  {
+     width: 90% !important;
+     left: 5% !important;
+   }
+}

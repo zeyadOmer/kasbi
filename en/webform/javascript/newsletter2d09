@@ -1,0 +1,6 @@
+jQuery(document).ready(function () {
+jQuery("#block-webform").hide();
+setTimeout(function() { jQuery("#block-webform").show(); }, 1000);
+jQuery('#block-webform a').click(function(e){e.preventDefault(); jQuery('#newsletter-modal').modal('toggle');});
+});
+
