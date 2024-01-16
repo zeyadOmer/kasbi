@@ -463,7 +463,7 @@
                                     <img width="300" height="127" src="uploads/uploads/2019/06/bsc_member-logo_on-white_cmyk_300dpi_0-300x127.png" class="attachment-medium size-medium entered lazyloaded" alt="Plant and Safety Limited British Safety Council Membership" decoding="async" aria-describedby="gallery-1-764" data-lazy-sizes="(max-width: 300px) 100vw, 300px" data-lazy-src="uploads/uploads/2019/06/bsc_member-logo_on-white_cmyk_300dpi_0-300x127.png" data-ll-status="loaded" sizes="(max-width: 300px) 100vw, 300px">
                                   </dt>
                                   <dd class="wp-caption-text gallery-caption" id="gallery-1-764">
-                                    Oman Energy association
+                                    جمعية الطاقة العمانية
                                   </dd>
                                 </dl>
                                

@@ -54,12 +54,13 @@
               </div>
               <p class="wow fadeInUp" style="visibility: visible; animation-name: fadeInUp;">
             
-              We invest in our people, which is why we operate both a Graduate Engineering scheme and an Apprenticeship scheme. Giving our apprentices and graduates the chance to grow and move forward in their careers is something we pride ourselves on
-
+              نحن نستثمر في موظفينا، ولهذا السبب ندير مخططًا للخريجين الهندسيين ومخططًا للتدريب المهني. إن منح المتدربين والخريجين لدينا الفرصة للنمو والمضي قدمًا في حياتهم المهنية هو أمر نفخر به
             
             </p>
-              <p class="wow fadeInUp" style="visibility: visible; animation-name: fadeInUp;">We will list our latest opening in this page, keep check our careers page to know the latest openings or submit your CV through the below apply link. Our HR department will sort the CV's and get back to the right candidate.</p>
-              <h5>Submit your cv's to career@alkasbieng.com</h5>
+              <p class="wow fadeInUp" style="visibility: visible; animation-name: fadeInUp;">
+              سنقوم بإدراج أحدث الوظائف الشاغرة لدينا في هذه الصفحة، وواصل مراجعة صفحة الوظائف لدينا لمعرفة أحدث الوظائف الشاغرة أو أرسل سيرتك الذاتية من خلال رابط التقديم أدناه. سيقوم قسم الموارد البشرية لدينا بفرز السيرة الذاتية والعودة إلى المرشح المناسب
+              </p>
+              <h5>ارسل سيرتك الذاتية على  career@alkasbieng.com</h5>
               <p></p>
               <!-- <strong>Experience</strong>
                 <ul class="contList">

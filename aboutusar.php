@@ -23,7 +23,7 @@ include_once('arheader.php')
           <div class="slide-text">
             <div class="elementor-widget-container">
               <h1 class="elementor-heading-title elementor-size-xxl">
-                About us
+               تعرف علينا
               </h1>
             </div>
 
@@ -55,9 +55,11 @@ include_once('arheader.php')
 
 
     <div class="aboutuscon">
-      <h1>About Alkasbi Enginerring:</h1>
-      <h5>About us</h5>
-      <p>Al-Kasbi Engineering Company was founded by a group of highly experienced engineers who worked with some of the most prestigious engineering companies around the world. The company provides its clients with the best engineering services, including inspection and testing of equipment. The company also grants its clients certificates of passing the tests.</p>
+      <h1>شركة الكاسبي الهندسية:</h1>
+     
+      <p>
+      تأسست شركة الكاسبي الهندسية على يد مجموعة من المهندسين ذوي الخبرة العالية الذين عملوا مع بعض الشركات الهندسية المرموقة حول العالم. وتقدم الشركة لعملائها أفضل الخدمات الهندسية بما في ذلك فحص واختبار المعدات. كما تقوم الشركة بمنح عملائها شهادات اجتياز الاختبارات.
+      </p>
     </div>
 
     <!-- our goals -->
@@ -67,9 +69,9 @@ include_once('arheader.php')
                     	<div class="bluInner">
                             <div class="row justify-content-end">
                                 <div class="col-md-7">
-                                    <h3 class="wow bounceInRight" data-wow-delay="0s" style="visibility: visible; animation-delay: 0s; animation-name: bounceInRight;">Our Approch</h3>
-                                    <h5 class="wow bounceInRight" data-wow-delay=".1s" style="visibility: visible; animation-delay: 0.1s; animation-name: bounceInRight;">VISION: </h5><p class="wow bounceInRight" data-wow-delay=".2s" style="visibility: visible; animation-delay: 0.2s; animation-name: bounceInRight;">Our vision is to become The Trusted Partner of each of the people with whom we have a relationship, be they clients, employees, shareholders, suppliers, members of the communities in which we are working or any other group or individual.</p>
-                                    <h5 class="wow bounceInRight" data-wow-delay=".3s" style="visibility: visible; animation-delay: 0.3s; animation-name: bounceInRight;">MISSION: </h5><p class="wow bounceInRight" data-wow-delay=".4s" style="visibility: visible; animation-delay: 0.4s; animation-name: bounceInRight;">To Provide the highest standard of services while providing pioneer, value -added Engineering Services to our customers with an ever-increasing spotlight on Oil and Gas production, Refining, Exploration and other major industries.</p>
+                                    <h3 class="wow bounceInRight" data-wow-delay="0s" style="visibility: visible; animation-delay: 0s; animation-name: bounceInRight;">نهجنا</h3>
+                                    <h5 class="wow bounceInRight" data-wow-delay=".1s" style="visibility: visible; animation-delay: 0.1s; animation-name: bounceInRight;">رؤيتنا: </h5><p class="wow bounceInRight" data-wow-delay=".2s" style="visibility: visible; animation-delay: 0.2s; animation-name: bounceInRight;">تتمثل رؤيتنا في أن نصبح الشريك الموثوق به لكل الأشخاص الذين تربطنا بهم علاقة، سواء كانوا عملاء أو موظفين أو مساهمين أو موردين أو أعضاء في المجتمعات التي نعمل فيها أو أي مجموعة أو فرد آخر.</p>
+                                    <h5 class="wow bounceInRight" data-wow-delay=".3s" style="visibility: visible; animation-delay: 0.3s; animation-name: bounceInRight;">مهمتنا: </h5><p class="wow bounceInRight" data-wow-delay=".4s" style="visibility: visible; animation-delay: 0.4s; animation-name: bounceInRight;">توفير أعلى مستوى من الخدمات مع تقديم خدمات هندسية رائدة وذات قيمة مضافة لعملائنا  .</p>
                                 </div>
                             </div>
                         </div>
@@ -81,17 +83,17 @@ include_once('arheader.php')
         	<div class="col-md-9">
             	<div class="cont_rows">
                   <div class="title03 wow bounceInRight" style="visibility: visible; animation-name: bounceInRight;">
-                        <h3><strong>ALKASBI Policy</strong></h3>
+                        <h3><strong>سياسة شركة الكاسبي الهندسية</strong></h3>
                     </div>
                     
-<p>Alkasbi engineering company will strive continuously to bring about qualitative improvements in all phases of its operations with an eye to attaining superior Quality among competitors. </p>
-<p>The Company will enforce this policy by:
+<p>ستسعى شركة الكاسبي الهندسية باستمرار إلى تحقيق تحسينات نوعية في جميع مراحل عملياتها مع التركيز على تحقيق الجودة العالية بين المنافسين. </p>
+<p>ستقوم الشركة بتنفيذ هذه السياسة من خلال:
 				</p><ul class="contList wow bounceInUp" style="visibility: visible; animation-name: bounceInUp;">
-                	<li>Creating all procedures, standards and systems necessary to ensure delivery of Quality products and services.</li>
-                    <li>Complying with specifications, standards and procedures at all stages of each contract.</li>
-                    <li>Assuring effective quality control of all materials and resources deployed on the job.</li>
-                    <li>Bringing all systems and processes about steady improvements based on customer feed back, audit findings and keeping abreast of technological innovations and advances.</li>
-                    <li>Training employees to comply with procedures and standards and installing an outlook of customer satisfaction in them.</li>
+                	<li>إنشاء جميع الإجراءات والمعايير والأنظمة اللازمة لضمان تقديم منتجات وخدمات عالية الجودة.</li>
+                    <li>الإلتزام بالمواصفات والمعايير والإجراءات في كافة مراحل كل عقد.</li>
+                    <li>ضمان مراقبة الجودة الفعالة لجميع المواد والموارد المستخدمة في العمل.</li>
+                    <li>جلب جميع الأنظمة والعمليات حول التحسينات المطردة بناءً على تعليقات العملاء ونتائج التدقيق ومواكبة الابتكارات والتقدم التكنولوجي.</li>
+                    <li>تدريب الموظفين على الالتزام بالإجراءات والمعايير وتثبيت النظرة المستقبلية لرضا العملاء فيهم.</li>
                  </ul>
                  <p></p>
                 </div>
@@ -113,23 +115,23 @@ include_once('arheader.php')
       <div class="msgimg">
         <div class="title">
           <img src="alkasbi.jpeg" alt="">
-          <strong>Mohammed alkasbi</strong>
-          <small>CEO,Founder</small>
+          <strong>محمد الكاسبي </strong>
+          <small>مدير عام و مؤسس الشركة</small>
         </div>
       </div>
       <div class="msg">
-        <h1>Message of the company owner
+        <h1>رسالة مؤسس الشركة
         </h1>
         <p>
-          Success begins with a dream, accompanied by careful planning, followed by precise implementation. From the
-          beginning of our journey in the world of lifting equipment inspection, we have made success a goal and exclusivity a goal
-          to achieve our ambitions. We chose full adhere to the principles and values ​​of the
-          profession as an uncompromising approach. Since 2023, every time we achieve a goal, we have greater goals,
-          and every time we accomplish a dream, our circle of dreams expands, not for us alone, but for the sake of
-          our employees and our partners, and for the sake of those who believe in us and our capabilities among our valued customers. We
-          are very happy with what we have achieved so far, with God’s grace, and thanks to the efforts
-          of our dedicated work team, and the suggestions of our customers and friends who share our journey of
-          progress and excellence. <br>
+        النجاح يبدأ بحلم، يرافقه تخطيط دقيق، يتبعه تنفيذ دقيق. من
+          بداية رحلتنا في عالم فحص معدات الرفع، جعلنا النجاح هدفا والتميز هدفا
+          لتحقيق طموحاتنا. لقد اخترنا الالتزام الكامل بمبادئ وقيم
+          المهنة كنهج لا هوادة فيه. منذ عام 2023، في كل مرة نحقق فيها هدفًا، تكون لدينا أهداف أكبر،
+          وفي كل مرة نحقق حلماً تتسع دائرة أحلامنا، ليس من أجلنا وحدنا، بل من أجله
+          موظفينا وشركائنا، ومن أجل أولئك الذين يؤمنون بنا وبقدراتنا من عملائنا الكرام. نحن
+          وأنا سعيد جدًا بما حققناه حتى الآن بفضل الله وبفضل الجهود المبذولة
+          من فريق العمل المتفاني لدينا، واقتراحات عملائنا وأصدقائنا الذين يشاركوننا رحلتنا
+          التقدم والتميز. <br>
           <img src="sig.png" alt="" height="100px" width="230px">
         </p>
 
@@ -171,7 +173,7 @@ include_once('arheader.php')
                   <div class="span12 widget-span widget-type-header title2 small stagger0" style="visibility: visible;" data-widget-type="header" data-x="0" data-w="12">
                     <div class="cell-wrapper layout-widget-wrapper">
                       <span id="hs_cos_wrapper_module_1532728658251177" class="hs_cos_wrapper hs_cos_wrapper_widget hs_cos_wrapper_type_header" style="text-align: center;" data-hs-cos-general-type="widget" data-hs-cos-type="header">
-                        <h2 style="color: #991a1a;">Meet the <strong>team.</strong></h2>
+                        <h2 style="color: #991a1a;">فريق العمل</strong></h2>
                       </span>
                     </div><!--end layout-widget-wrapper -->
                   </div><!--end widget-span -->
@@ -194,8 +196,8 @@ include_once('arheader.php')
                               </div>
                             </div>
                             <div class="team-info">
-                              <h4 class="name sub-title title5 c-white">Mohammed<br> Alkasbi</h4>
-                              <span class="job-title title4 c-beige c-amber-ale">Owner</span>
+                              <h4 class="name sub-title title5 c-white">محمد<br> الكاسبي</h4>
+                              <span class="job-title title4 c-beige c-amber-ale">مدير عام و مؤسس</span>
                             </div>
 
 
@@ -212,8 +214,8 @@ include_once('arheader.php')
                               </div>
                             </div>
                             <div class="team-info">
-                              <h4 class="name sub-title title5 c-white">Ali<br> Alkasbi</h4>
-                              <span class="job-title title4 c-beige c-amber-ale">Assistant CEO </span>
+                              <h4 class="name sub-title title5 c-white">علي<br> الكاسبي</h4>
+                              <span class="job-title title4 c-beige c-amber-ale">نائب المدير  </span>
                             </div>
 
 
@@ -231,8 +233,8 @@ include_once('arheader.php')
                               </div>
                             </div>
                             <div class="team-info">
-                              <h4 class="name sub-title title5 c-white">Mudher<br> Al-Musalami</h4>
-                              <span class="job-title title4 c-beige c-amber-ale">inspection consultant</span>
+                              <h4 class="name sub-title title5 c-white">مضر<br> Al-المسلمي</h4>
+                              <span class="job-title title4 c-beige c-amber-ale">مستشار  </span>
                             </div>
 
 
@@ -249,8 +251,8 @@ include_once('arheader.php')
                               </div>
                             </div>
                             <div class="team-info">
-                              <h4 class="name sub-title title5 c-white">Ahmed<br> Salah</h4>
-                              <span class="job-title title4 c-beige c-amber-ale">quality manager</span>
+                              <h4 class="name sub-title title5 c-white">احمد<br> صلاح</h4>
+                              <span class="job-title title4 c-beige c-amber-ale"> مدير الجودة</span>
                             </div>
 
 
