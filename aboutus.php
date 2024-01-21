@@ -55,7 +55,7 @@ include_once('header.php')
 
 
     <div class="aboutuscon">
-      <h1>About Alkasbi Enginerring:</h1>
+      <h1>About ALKASBI Enginerring:</h1>
       <h5>About us</h5>
       <p>Al-Kasbi Engineering Company was founded by a group of highly experienced engineers who worked with some of the most prestigious engineering companies around the world. The company provides its clients with the best engineering services, including inspection and testing of equipment. The company also grants its clients certificates of passing the tests.</p>
     </div>

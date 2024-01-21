@@ -994,18 +994,7 @@ transition: transform 1s;
 	position:relative;
 	margin-bottom:20px;
 }
-.title03 h3 {
-	font-size:24px;
-}
-.title03::after {
-	content:"";
-	position:absolute;
-	width:100px;
-	height:1px;
-	background:#2a9837;
-	top:100%;
-	left:0px;
-}
+
 .cont_rows {
 	width:100%;
 	margin-bottom:50px;
@@ -1199,13 +1188,17 @@ transition: transform 1s;
 	z-index:0;
 }
 .bluComnContBox h3 {
-	font-size:26px;
+	color: #fff;
 	text-transform:uppercase;
 	margin-bottom:25px;
 }
 .bluComnContBox h5 {
+	color: #fff;
 	font-size:17px;
 	margin-bottom:25px;
+}
+.bluInner p{
+	font-size: large;
 }
 .bluComnContBox .bluInner {
 	position:relative;

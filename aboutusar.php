@@ -6,6 +6,13 @@ include_once('arheader.php')
 
 <link rel="stylesheet" href="ss.css">
 <style>
+  .aboutuscon{
+    text-align: right;
+  }
+  .aboutuscon p{
+    font-size: large;
+    text-align: right;
+  }
   .bluInner p{
     color: #fff;
   }
